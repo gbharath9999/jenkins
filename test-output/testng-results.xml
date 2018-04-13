@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2018-04-13T11:15:46Z" finished-at="2018-04-13T11:15:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2018-04-13T11:15:46Z" finished-at="2018-04-13T11:15:46Z">
+      <class name="com.chiselon.jenkins1.FirstTest">
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.chiselon.jenkins1.FirstTest@643b1d11]" name="m2" duration-ms="11" started-at="2018-04-13T16:45:46Z" finished-at="2018-04-13T16:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.chiselon.jenkins1.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
